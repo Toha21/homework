@@ -12,8 +12,6 @@
 * Высокая скорость поиска
 * Низкая цена
 ```
-</details>
-
 ```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
